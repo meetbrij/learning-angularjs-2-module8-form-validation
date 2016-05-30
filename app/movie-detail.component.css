@@ -1,0 +1,21 @@
+.movie-details {
+  margin-right: 15px;
+}
+
+.movie-image {
+	width: 100%;
+}
+
+.movie-desc {
+	max-height: 250px;
+	overflow-y: auto;
+}
+
+.red {
+  color: #EF0000;
+  font-weight: bold;
+}
+
+.green {
+  color: #03C30A;
+}
